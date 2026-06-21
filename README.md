@@ -4,6 +4,8 @@
 ## Overview
 
 Developed an interactive Tableau dashboard to analyze sales, profitability, discount impact, and customer performance. The dashboard provides executive-level insights through KPIs, geographical analysis, and category-wise trends.
+Dashboard Link: https://public.tableau.com/app/profile/sahithi.kasturi/viz/shared/M7FHMF6Z4
+
 
 ## Features
 
